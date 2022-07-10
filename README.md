@@ -1,10 +1,10 @@
-### MS.Jessica 
+### Stefanie
 
 ### Multi Device  [ ❑ 𝗩𝗜𝗣 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ❑ ]  Unlimited Version (24 hors Activation )
 
 
 
-<img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" alt="nz" width="350"/>
 </p>
 
 
@@ -32,63 +32,6 @@
 
 
 
-</br>
-
-<a href="https://github.com/whiteshadowofficial"><img title="Author" src="https://img.shields.io/badge/Author-whiteshadowofficial-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/whiteshadowofficial"><img title="Stars" src="https://img.shields.io/github/stars/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/whiteshadowofficial/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
-
-
-
-
-----
-
-
-## Connect With Me
-
-----
-
-> <a href="http://wa.me/+94779529221?text=හායි+🙈🌸+වද🪄+දෙන්න+ඔයාට🥰+githb+එකෙන්+INBOX+🤭+ආවෙ+🪄❢❢_"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-
-----
-
-> <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-----
-
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-
-  </div>
-
-
-
-## ⚠ Warnings & Disclaimers ⚠
-
-> - By using kick, add, promote, demote Commands, **Your WhatsApp account may be banned.** This is an open source project, **you are responsible for everything you do.** Absolutely, Jessi executives **do not accept responsibility.** By establishing the Jessica, **you are deemed to have accepted these responsibilities.**
-
-> - **WhatsApp** name, its variations and the logo are registered trademarks of Facebook. **We have nothing to do with the registered trademark.**
-----
-
-## 💗 Credit 💗
- 
-----
- > I will give toxic devil credits on my forked/cloned ropo of Jessi 🌸💗. I will never change it [ ©MR.CHABBY 💗 Jessica ](https://github.com/MrChaby/Jessi).
-----
- > Also Feel free to contribute & issue [report issues & feature request on issue session of the ropo](https://github.com/MrChaby/Jessi)... 🙂❤️
-  
- ----
-
-[![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
-----
-[MrChaby](https://github.com/MrChaby)
-----
-
-> All photos and names of this project are owned by the first owner.
-----
-> This project was prepared with all his approval.
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
 ## Developers

@@ -1,5 +1,5 @@
 {
-  "name": "Jessi-whatsapp-bot-md",
+  "name": "Stefanie-whatsapp-bot-md",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "jessimd.js",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2.git"
+    "url": "git+https://github.com/whiteshadowofficial/STEFANIE-BOT-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/issues"
+    "url": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/issues"
   },
-  "homepage": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2#readme"
+  "homepage": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD#readme"
 }

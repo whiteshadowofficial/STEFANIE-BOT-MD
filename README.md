@@ -13,7 +13,7 @@
 ----
 
 
- <b><h1>Scan Qr Code</b></h1>
+ <b><h1>Scan Qr Code.</b></h1>
  
 
 <a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">

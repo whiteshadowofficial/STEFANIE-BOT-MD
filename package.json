@@ -1,11 +1,11 @@
 {
   "name": "Stefanie-whatsapp-bot-md",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "stefaniemd.js",
+  "main": "stefanie.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node stefaniemd.js"
+    "start": "node stefanie.js"
   },
   "keywords": [
     "termux",

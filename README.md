@@ -11,7 +11,9 @@
 > [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
 
 ----
+Setup bot in sinhala lanuage...👇
 
+https://github.com/whiteshadowofficial/Stefanie-Setup
 
  <b><h1>Scan Qr Code.</b></h1>
  

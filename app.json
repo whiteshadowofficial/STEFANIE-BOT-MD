@@ -1,8 +1,8 @@
 {
-  "name": "Stefanie-WhatsApp-Bot-MD",
+  "name": "Loser-WhatsApp-Bot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD",
-  "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
+  "repository": "https://github.com/whiteshadowofficial/RaoHamza6",
+  "logo": "https://i.imgur.com/LmiCTjb.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {

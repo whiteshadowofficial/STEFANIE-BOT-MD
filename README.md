@@ -23,6 +23,10 @@ https://github.com/whiteshadowofficial/Stefanie-Setup
 
 
 
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+  
+
 <b><h1>Deploy Now ♨️</b></h1>
    <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
